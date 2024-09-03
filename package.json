@@ -1,0 +1,21 @@
+{
+  "name": "markdown-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "lodash.debounce": "^4.0.8",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.2.0",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "puppeteer": "^23.2.2"
+  }
+}
