@@ -4,3 +4,9 @@ html {
 h1, h2, h3, h4, h5, h6{
     text-align: center;
 }
+code {
+    background-color: rgb(57, 38, 53) !important;
+}
+hr {
+    background-color: white !important
+}

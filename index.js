@@ -16,7 +16,7 @@ const md = markdownIt()
 const inputDir = path.join(__dirname, 'md');
 const outputPdfDir = path.join(__dirname, 'pdf');
 const outputHtmlDir = path.join(__dirname, 'html');
-const cssUrl = 'https://roxcelic.github.io/crimtane/styles.css';
+const cssUrl = 'https://style.roxcelic.love/styles.css';
 const localCssPath = path.join(__dirname, 'style.css');
 
 function getMarkdownFiles(dir) {
